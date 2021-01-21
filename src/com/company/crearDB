@@ -1,0 +1,23 @@
+con el usuario postgres ejecutas -> create database acb;
+con el usuario postgres das permiso a la base de datos -> GRANT ALL PRIVILEGES ON DATABASE acb TO usuario;
+sales de la base de datos y te logeas con el usuario "usuario" -> psql -h localhost -d acb -U usuario;
+ahora ejecutas los comandos para crear las tablas y inserts
+
+las tablas se ven con -> \d o \d nombre_tabla
+
+
+Statement statement = conn.createstatement();
+// Si es una consulta
+Resulset resulset = statement.executequery("CONSULTA SQL")
+while (resulset.next()) {
+    resultSet.getString("nombreColumna");
+}
+// SI ES INSERTAR DATOS
+statement.executeUpdate("INSERT ...")
+// ACTUALIZAR DATOS
+statement.executeUpdate("UPDATE Customers
+                         SET ContactName = 'Alfred Schmidt', City= 'Frankfurt'
+                         WHERE CustomerID = 1;)
+// DESPUES DE CADA MODIFICACION
+conn.commit)
+statement.close

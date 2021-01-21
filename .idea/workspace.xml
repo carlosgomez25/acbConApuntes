@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="06fb654f-5aa9-42c6-8309-7455e948b66c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1myqkpLcBhd7GEBu7QV8c1CGwLk" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/out/production/acb" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/acb" />
+      <recent name="$PROJECT_DIR$/out/production/acb/com" />
+      <recent name="$PROJECT_DIR$/out/production/acb/com/company" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.company" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/out/production/acb" />
+      <recent name="$PROJECT_DIR$/src/com/company" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+      <module name="acb" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="06fb654f-5aa9-42c6-8309-7455e948b66c" name="Default Changelist" comment="" />
+      <created>1610476327106</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1610476327106</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="662" y="324" width="586" height="403" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1611238557532">
+      <screen x="0" y="27" width="1920" height="991" />
+    </state>
+    <state x="662" y="324" width="586" height="403" key="#com.intellij.fileTypes.FileTypeChooser/0.27.1920.991@0.27.1920.991" timestamp="1611238557532" />
+    <state width="1874" height="255" key="GridCell.Tab.0.bottom" timestamp="1611240730501">
+      <screen x="0" y="27" width="1920" height="991" />
+    </state>
+    <state width="1874" height="255" key="GridCell.Tab.0.bottom/0.27.1920.991@0.27.1920.991" timestamp="1611240730501" />
+    <state width="1874" height="255" key="GridCell.Tab.0.center" timestamp="1611240730501">
+      <screen x="0" y="27" width="1920" height="991" />
+    </state>
+    <state width="1874" height="255" key="GridCell.Tab.0.center/0.27.1920.991@0.27.1920.991" timestamp="1611240730501" />
+    <state width="1874" height="255" key="GridCell.Tab.0.left" timestamp="1611240730500">
+      <screen x="0" y="27" width="1920" height="991" />
+    </state>
+    <state width="1874" height="255" key="GridCell.Tab.0.left/0.27.1920.991@0.27.1920.991" timestamp="1611240730500" />
+    <state width="1874" height="255" key="GridCell.Tab.0.right" timestamp="1611240730501">
+      <screen x="0" y="27" width="1920" height="991" />
+    </state>
+    <state width="1874" height="255" key="GridCell.Tab.0.right/0.27.1920.991@0.27.1920.991" timestamp="1611240730501" />
+    <state x="443" y="100" width="1024" height="852" key="SettingsEditor" timestamp="1611239200637">
+      <screen x="0" y="27" width="1920" height="991" />
+    </state>
+    <state x="443" y="100" width="1024" height="852" key="SettingsEditor/0.27.1920.991@0.27.1920.991" timestamp="1611239200637" />
+    <state x="624" y="236" key="run.anything.popup" timestamp="1611239026364">
+      <screen x="0" y="27" width="1920" height="991" />
+    </state>
+    <state x="624" y="236" key="run.anything.popup/0.27.1920.991@0.27.1920.991" timestamp="1611239026364" />
+    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup" timestamp="1611240301239">
+      <screen x="0" y="27" width="1920" height="991" />
+    </state>
+    <state x="623" y="243" width="672" height="678" key="search.everywhere.popup/0.27.1920.991@0.27.1920.991" timestamp="1611240301239" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.IllegalArgumentException" package="java.lang" />
+          <option name="timeStamp" value="2" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/acb$Main.ic" NAME="Main Coverage Results" MODIFIED="1610727532942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
+  </component>
+</project>
